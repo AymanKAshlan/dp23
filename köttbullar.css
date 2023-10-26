@@ -1,0 +1,74 @@
+body {
+    margin: 5rem 05rem 0 05rem;
+    padding: 5rem;
+    background-color:  #58A4B0;
+          
+}
+img {
+    border-radius: 10%;
+  }
+
+h1{
+    position: absolute;
+    margin: auto25vw;
+    color: white;
+    font-size: 75px;
+}
+h2{
+    color: white;
+font-size: xx-large;
+}
+
+h3 {
+    color: white;
+    font-size: xx-large;
+    
+    
+}
+h4 {
+    color: white;
+    font-size: xx-large;
+}
+
+.sista-p{
+    color: white;
+    font-size: 20px;
+    
+
+}
+li {    
+    list-style: none;
+    margin: 0 0 0 0;
+    }
+a{
+    text-decoration: none;
+    color: #D8DBE2;
+    font-size: 30px;
+}
+.container {
+       display: flex ;
+       margin: 10rem;
+}
+nav{
+margin: 20px 0 0 0;
+font-size: small;
+}
+main{
+    margin: 2rem;
+
+}
+aside {
+    margin: 0,1rem;
+    padding-top: 70px;
+    border-radius: 20px;
+
+}
+footer {
+    position: absolute;
+    margin: auto 25vw;
+    padding: 10vh;
+}
+class ayman{
+    color: white;
+    font-size: 25px;
+}
